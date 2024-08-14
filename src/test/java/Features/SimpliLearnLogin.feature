@@ -1,6 +1,7 @@
 @Simplilearn
 Feature: This feature will validate the login scenario for simplilearn.com
-  @Ignore
+
+  @U_10001
   Scenario: Validate the login failure scenario
     Given I have launched the application
     And I clicked on the login link
@@ -9,8 +10,7 @@ Feature: This feature will validate the login scenario for simplilearn.com
     And I click on the login button
     Then I should get the error message as "The email or password you have entered is invalid."
 
-  @Regression
-  @U_1000
+  @U_10001
   Scenario: Validate the login failure scenario with parameters
     Given I have launched the application
     And I clicked on the login link
@@ -19,6 +19,7 @@ Feature: This feature will validate the login scenario for simplilearn.com
     And I click on the login button
     Then I should get the error message as "The email or password you have entered is invalid."
 
+  @Ignore
   Scenario Outline: Validate the login failure scenario using scenario outline
     Given I have launched the application
     And I clicked on the login link
@@ -31,8 +32,8 @@ Feature: This feature will validate the login scenario for simplilearn.com
    | abc@xyz.com | Abc@1234 | The email or password you have entered is invalid. |
    | pqr@xyz.com | Pqr@1234 | The email or password you have entered is invalid. |
 
-    @U_1000
-    Scenario: Validate that different login options are present on the login screen page
+  @Regression
+  Scenario: Validate that different login options are present on the login screen page
       Given I have launched the application
       And I clicked on the login link
        Then I see the below login options are present on the screen
