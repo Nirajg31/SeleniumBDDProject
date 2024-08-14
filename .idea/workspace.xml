@@ -17,6 +17,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Nirajg31/SeleniumBDDProject.git",
+    "accountId": "bd7fa4da-f4c2-4608-bc2e-4940fc955efd"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -47,6 +56,7 @@
     "JUnit.Runner.executor": "Run",
     "JUnit.TestRunner.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Niraj Gupta/IdeaProjects/SeleniumAutomation",
     "onboarding.tips.debug.path": "C:/Users/Niraj Gupta/IdeaProjects/SeleniumBDDProject/src/main/java/org/example/Main.java",
