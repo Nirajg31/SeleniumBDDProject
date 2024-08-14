@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de3df9df-986e-46a3-85b8-d3075a856024" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2kBHvum0Jagfh9QDoYGWy2HL23j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.test.executor": "Run",
+    "Cucumber Java.Feature: Caculation (1).executor": "Run",
+    "Cucumber Java.Feature: Caculation.executor": "Run",
+    "Cucumber Java.Feature: Caculation1.executor": "Run",
+    "Cucumber Java.Feature: SimpliLearnLogin.executor": "Run",
+    "Cucumber Java.Feature: StringOperations.executor": "Run",
+    "Cucumber Java.Scenario: : To compare the values of two strings with different text.executor": "Run",
+    "Cucumber Java.Scenario: Check the addition of two numbers with multiple dataset.executor": "Run",
+    "Cucumber Java.Scenario: This scenario  will add two or more numbers  and validate the results.executor": "Run",
+    "Cucumber Java.Scenario: To compare the values of two strings using example.executor": "Run",
+    "Cucumber Java.Scenario: Validate that different login options are present on the login screen page.executor": "Run",
+    "Cucumber Java.Scenario: Validate the login failure scenario using scenario outline.executor": "Run",
+    "Cucumber Java.Scenario: Validate the login failure scenario with parameters.executor": "Run",
+    "Cucumber Java.Scenario: Validate the login failure scenario.executor": "Run",
+    "Cucumber Java.Scenario: Validate the total bill amount of the purchased items in multiple quantity.executor": "Run",
+    "Cucumber Java.Scenario: Validate the total bill amount of the purchased items.executor": "Run",
+    "JUnit.Features in SeleniumBDDProject.executor": "Debug",
+    "JUnit.Runner.executor": "Run",
+    "JUnit.TestRunner.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Niraj Gupta/IdeaProjects/SeleniumAutomation",
+    "onboarding.tips.debug.path": "C:/Users/Niraj Gupta/IdeaProjects/SeleniumBDDProject/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Niraj Gupta\IdeaProjects\SeleniumBDDProject\src\test\java\Features" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Niraj Gupta\IdeaProjects\SeleniumBDDProject\src\main\java\Features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Scenario: Validate that different login options are present on the login screen page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/SimpliLearnLogin.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="SeleniumBDDProject" />
+      <option name="NAME_FILTER" value="^Validate that different login options are present on the login screen page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Validate that different login options are present on the login screen page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validate that different login options are present on the login screen page" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Validate the login failure scenario using scenario outline" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/SimpliLearnLogin.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="SeleniumBDDProject" />
+      <option name="NAME_FILTER" value="^Validate the login failure scenario using scenario outline$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Validate the login failure scenario using scenario outline$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validate the login failure scenario using scenario outline" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Validate the login failure scenario with parameters" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/SimpliLearnLogin.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="SeleniumBDDProject" />
+      <option name="NAME_FILTER" value="^Validate the login failure scenario with parameters$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Validate the login failure scenario with parameters$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validate the login failure scenario with parameters" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Validate the login failure scenario" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/SimpliLearnLogin.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="SeleniumBDDProject" />
+      <option name="NAME_FILTER" value="^Validate the login failure scenario$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Validate the login failure scenario$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validate the login failure scenario" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in SeleniumBDDProject" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="SeleniumBDDProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBDDProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="steps.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Validate that different login options are present on the login screen page" />
+        <item itemvalue="Cucumber Java.Scenario: Validate the login failure scenario using scenario outline" />
+        <item itemvalue="Cucumber Java.Scenario: Validate the login failure scenario with parameters" />
+        <item itemvalue="Cucumber Java.Scenario: Validate the login failure scenario" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de3df9df-986e-46a3-85b8-d3075a856024" name="Changes" comment="" />
+      <created>1722750286015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722750286015</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SeleniumBDDProject$Scenario__Validate_the_total_bill_amount_of_the_purchased_items_in_multiple_quantity.ic" NAME="Scenario: Validate the total bill amount of the purchased items in multiple quantity Coverage Results" MODIFIED="1722759284705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>io.cucumber.core.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SeleniumBDDProject$Scenario__Validate_the_total_bill_amount_of_the_purchased_items.ic" NAME="Scenario: Validate the total bill amount of the purchased items Coverage Results" MODIFIED="1722759611659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>io.cucumber.core.cli.*</FILTER>
+    </SUITE>
+  </component>
+</project>
